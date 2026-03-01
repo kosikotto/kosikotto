@@ -1,6 +1,6 @@
 ### <p align="center" style="font-size">Hi 👋<br>I'm Ottó Kosik</p>
 
-#### <p align="center">A passionate Full-Stack Developer from Hungary 🇭🇺</p>
+#### <p align="center">A passionate Full-Stack Developer from Hungary</p>
 
 ***
 
