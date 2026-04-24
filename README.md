@@ -30,45 +30,77 @@
 ***
 
 <h3 align="center">📩 Connect with me:</h3>
-<p align="center">
-<a href="https://kosikotto.ddns.net/ko/" target="blank"><img align="center" src="https://kosikotto.ddns.net/ko/icons/logo1.png" alt="portfolio" height="40" width="40" /></a>
-<a href="https://github.com/kosikotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40" /></a>
-<a href="https://leetcode.com/kosikotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40" /></a>
-<a href="mailto:ifj.kosik.otto@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13826&format=png&color=000000" alt="email" height="40" width="40" /></a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://kosikotto.ddns.net/ko/" target="_blank">
+        <img src="https://kosikotto.ddns.net/ko/icons/logo1.png" alt="portfolio" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kosikotto" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/kosikotto" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:ifj.kosik.otto@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=13826&format=png&color=000000" alt="email" height="40" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ***
 
 <h3 align="center">🧰 Languages and Tools:</h3>
 
-<div align="center">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>
-
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
-
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a>
-
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a>
-</div>
+<table align="center">
+  <tr>
+    <td><a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a></td>
+    <td><a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a></td>
+    <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="40"/></a></td>
+    <td><a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="40"/></a></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40"/></a></td>
+    <td><a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40"/></a></td>
+    <td><a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a></td>
+    <td><a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/></a></td>
+    <td><a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a></td>
+    <td><a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="40"/></a></td>
+    <td><a href="https://www.oracle.com/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" width="40"/></a></td>
+    <td><a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a></td>
+    <td><a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="40"/></a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kosikotto&" alt="-" /></p>
