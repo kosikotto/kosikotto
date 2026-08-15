@@ -27,11 +27,12 @@
 
 ## 🛠️ Technical Skills
 
-* **Backend & Architecture:** C# (ASP.NET Core, EF), Java (Spring Boot, Lombok), REST APIs, OpenAPI (Swagger), Dependency Injection.
+* **Backend & Architecture:** C# (ASP.NET Core, EF), Java (Spring Boot, Lombok), Node.js, REST APIs, OpenAPI (Swagger), Dependency Injection.
 * **Web Development:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, Bootstrap, TypeScript.
 * **Databases:** PostgreSQL (JSONB), MySQL, MSSQL, Redis, MinIO, SQLite.
-* **Infrastructure & Cloud:** Docker, Linux (Apache2, Nginx), Windows Server (AD, IIS), AWS (Lambda, API Gateway, S3).
+* **Infrastructure & Cloud:** Docker, Linux (Debian/Ubuntu, Apache2, Nginx), Windows Server (AD, IIS), AWS (Lambda, API Gateway, S3).
 * **Security:** Keycloak SSO, Role-Based Access Control (RBAC).
+* **Tools & Version Control:** Git, npm, On-premise Server Management.
 
 ---
 
