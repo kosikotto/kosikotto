@@ -47,7 +47,8 @@
 * **Email:** [ifj.kosik.otto@gmail.com](mailto:ifj.kosik.otto@gmail.com)
 * **LinkedIn:** [linkedin.com/in/kosikotto](https://www.linkedin.com/in/kosikotto)
 * **Website / Portfolio:** [kosikotto.ddns.net/ko/](https://kosikotto.ddns.net/ko/)
-* **Resume:** [Download my CV here](https://kosikotto.ddns.net/kosikotto_oneletrajz.pdf)
+* **Resume:** [Download my CV here](https://github.com/kosikotto/github-assets/blob/main/Kosik_Otto_CV_full_EN.pdf)
+* **Resume:** [Download my CL here](https://github.com/kosikotto/github-assets/blob/main/Kosik_Otto_Cover_Letter_General_EN.pdf)
 
 <br>
 
@@ -57,7 +58,7 @@
     <tr>
       <td align="center">
         <a href="https://kosikotto.ddns.net/ko/" target="_blank">
-          <img src="https://kosikotto.ddns.net/ko/icons/logo1.png" alt="portfolio" height="40" width="40"/>
+          <img src="https://raw.githubusercontent.com/kosikotto/github-assets/main/logo1.png" alt="portfolio" height="40" width="40"/>
         </a>
       </td>
       <td align="center">
