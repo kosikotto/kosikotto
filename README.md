@@ -66,6 +66,11 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://dev.to/kosikotto" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="38" width="38"/>
+        </a>
+      </td>
+      <td align="center">
         <a href="https://leetcode.com/kosikotto" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="38" width="38"/>
         </a>
@@ -81,6 +86,7 @@
   <br>
 
   <p>
+    🌐 <b>Web Hub:</b> <a href="https://kosikotto.github.io/">kosikotto.github.io</a> &nbsp;|&nbsp;
     📄 <b>Resume:</b> <a href="https://github.com/kosikotto/github-assets/blob/main/Kosik_Otto_CV_full_EN.pdf">Download CV (EN)</a> &nbsp;|&nbsp;
     ✉️ <b>Cover Letter:</b> <a href="https://github.com/kosikotto/github-assets/blob/main/Kosik_Otto_Cover_Letter_General_EN.pdf">Download Cover Letter (EN)</a>
   </p>
