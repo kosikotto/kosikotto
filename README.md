@@ -3,7 +3,7 @@
   <h3>Full-Stack Software Engineer & Cloud / DevOps Enthusiast</h3>
   <p>
     Computer Science Engineering student at Óbuda University, specializing in Cloud Technologies & IT Security.<br>
-    Bridging the gap between robust backend software and containerized cloud infrastructure.
+    Bridging the gap between robust backend software, enterprise services, and containerized cloud infrastructure.
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=kosikotto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,21 +21,22 @@
 
 ## 🚀 What I'm currently working on
 
-* **Formula Student Software:** Developing core backend services and asset tracking workflows (NIDUS) as a Full-Stack Developer for the Óbuda University Racing (O.U.R) Team, alongside implementing centralized Keycloak SSO authentication.
+* **Enterprise Backend Engineering (NAV):** Developing mission-critical machine-to-machine (M2M) communication services and high-throughput data processing workflows using Java and Quarkus at the National Tax and Customs Administration. Handling interface version migrations and relational DBMS schema adaptations.
+* **Formula Student:** Developing core backend services and asset tracking workflows (NIDUS) as a Full-Stack Developer for the Óbuda University Racing (O.U.R) Team, alongside implementing centralized Keycloak SSO authentication.
 * **Teaching & Mentorship:** Guiding first-year engineering students through algorithm design, data structures, and Clean Code principles as an Óbuda University Teaching Assistant.
 * **Self-Hosting & DevOps:** Maintaining an on-premise Linux server environment hosting reference architectures, containerized Docker applications, Redis caches, and reverse proxies (Nginx).
-* **Modern Stack Expansion:** Deepening expertise in enterprise C# (.NET) and Java (Spring Boot) architectures, paired with responsive React and TypeScript frontends.
+* **Modern Stack Expansion:** Deepening expertise in enterprise Java (Quarkus, Spring Boot) and C# (.NET) architectures, complemented by responsive React and TypeScript frontends.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Backend & Architecture:** C# (ASP.NET Core, EF Core), Java (Spring Boot, Lombok), RESTful APIs, OpenAPI (Swagger), Dependency Injection, Layered Architecture.
+* **Backend & Architecture:** Java (Quarkus, Spring Boot, Lombok), C# (ASP.NET Core, EF Core), RESTful APIs, XML / XSD Schemas, OpenAPI (Swagger), Dependency Injection, Layered Architecture.
 * **Frontend Development:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Bootstrap.
 * **Databases & Storage:** PostgreSQL (JSONB), MySQL, MSSQL, Redis, MinIO, SQLite.
-* **Infrastructure & Cloud:** Docker, Docker Compose, Linux (Debian/Ubuntu, Apache2, Nginx), Windows Server (Active Directory, IIS), AWS (Lambda, API Gateway, S3).
+* **Infrastructure & Cloud:** Docker, Docker Compose, Linux (Debian/Ubuntu, Apache2, Nginx), GitLab CI/CD, Windows Server (Active Directory, IIS), AWS (Lambda, API Gateway, S3).
 * **Security & Identity:** Keycloak SSO, Role-Based Access Control (RBAC).
-* **Tools & Methodologies:** Git, GitHub, Notion, Agile Workflows, Code Review.
+* **Tools & Methodologies:** Git, GitLab, GitHub, Jira, Notion, Agile Workflows, Code Review.
 
 ---
 
@@ -98,7 +99,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,html,css,tailwind&perline=10" alt="Languages and Frontend" />
       <br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,aws,git,github&perline=10" alt="Backend and DevOps" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,gitlab,git,github&perline=10" alt="Backend and DevOps" />
     </a>
   </p>
 
