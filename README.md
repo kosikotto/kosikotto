@@ -3,7 +3,7 @@
   <h3>Full-Stack Software Engineer & Cloud / DevOps Enthusiast</h3>
   <p>
     Computer Science Engineering student at Óbuda University, specializing in Cloud Technologies & IT Security.<br>
-    Bridging the gap between robust backend software, enterprise services, and containerized cloud infrastructure.
+    Bridging the gap between robust backend software, enterprise operations, and containerized cloud infrastructure.
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=kosikotto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,30 +13,31 @@
 
 ## 🎓 Thesis / Current Research
 
-* **Shadowing and Mirroring Microservices Communication:** Designing a microservice-based shadow traffic monitoring and anonymization framework.
-* **Focus:** Asynchronously mirroring real data traffic to a test environment using an NGINX API Gateway. The project features GDPR-compliant, real-time anonymization of personal (PII) data, and automated response comparison between production and test environments.
-* **Status:** The Docker-based containerized architecture, privacy challenge analysis, and software specification (Privacy-first pipeline) are completed. Implementation and benchmarking of the anonymization pipeline and monitoring metrics are currently in progress.
+- **Shadowing and Mirroring Microservices Communication:** Designing a microservice-based shadow traffic monitoring and anonymization framework.
+- **Focus:** Asynchronously mirroring real data traffic to a test environment using an NGINX API Gateway. The project features GDPR-compliant, real-time anonymization of personal (PII) data, and automated response comparison between production and test environments.
+- **Status:** The Docker-based containerized architecture, privacy challenge analysis, and software specification (Privacy-first pipeline) are completed. Implementation and benchmarking of the anonymization pipeline and monitoring metrics are currently in progress.
 
 ---
 
 ## 🚀 What I'm currently working on
 
-* **Enterprise Backend Engineering (NAV):** Developing mission-critical machine-to-machine (M2M) communication services and high-throughput data processing workflows using Java and Quarkus at the National Tax and Customs Administration. Handling interface version migrations and relational DBMS schema adaptations.
-* **Formula Student:** Developing core backend services and asset tracking workflows (NIDUS) as a Full-Stack Developer for the Óbuda University Racing (O.U.R) Team, alongside implementing centralized Keycloak SSO authentication.
-* **Teaching & Mentorship:** Guiding first-year engineering students through algorithm design, data structures, and Clean Code principles as an Óbuda University Teaching Assistant.
-* **Self-Hosting & DevOps:** Maintaining an on-premise Linux server environment hosting reference architectures, containerized Docker applications, Redis caches, and reverse proxies (Nginx).
-* **Modern Stack Expansion:** Deepening expertise in enterprise Java (Quarkus, Spring Boot) and C# (.NET) architectures, complemented by responsive React and TypeScript frontends.
+- **Enterprise Backend Engineering (NAV):** Developing mission-critical machine-to-machine (M2M) communication services and high-throughput data processing workflows using Java and Quarkus at the National Tax and Customs Administration. Handling interface version migrations and relational DBMS schema adaptations.
+- **Formula Student:** Developing core backend services and asset tracking workflows (NIDUS) as a Full-Stack Developer for the Óbuda University Racing (O.U.R) Team, alongside implementing centralized Keycloak SSO authentication.
+- **Teaching & Mentorship:** Guiding first-year engineering students through algorithm design, data structures, and Clean Code principles as an Óbuda University Teaching Assistant.
+- **Self-Hosting & DevOps:** Maintaining an on-premise Linux server environment hosting reference architectures, containerized Docker applications, Redis caches, and reverse proxies (Nginx).
+- **Modern Stack Expansion:** Deepening expertise in enterprise Java (Quarkus, Spring Boot) and C# (.NET) architectures, complemented by responsive React and TypeScript frontends.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* **Backend & Architecture:** Java (Quarkus, Spring Boot, Lombok), C# (ASP.NET Core, EF Core), RESTful APIs, XML / XSD Schemas, OpenAPI (Swagger), Dependency Injection, Layered Architecture.
-* **Frontend Development:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Bootstrap.
-* **Databases & Storage:** PostgreSQL (JSONB), MySQL, MSSQL, Redis, MinIO, SQLite.
-* **Infrastructure & Cloud:** Docker, Docker Compose, Linux (Debian/Ubuntu, Apache2, Nginx), GitLab CI/CD, Windows Server (Active Directory, IIS), AWS (Lambda, API Gateway, S3).
-* **Security & Identity:** Keycloak SSO, Role-Based Access Control (RBAC).
-* **Tools & Methodologies:** Git, GitLab, GitHub, Jira, Notion, Agile Workflows, Code Review.
+- **Backend & Architecture:** Java (Quarkus, Spring Boot, Lombok), C# (ASP.NET Core, EF Core), RESTful APIs, JSON / XML (XSD), OpenAPI (Swagger), Dependency Injection, Layered Architecture.
+- **Frontend Development:** React, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, Bootstrap.
+- **Databases & Storage:** PostgreSQL (JSONB), MySQL, MSSQL, Oracle SQL, Redis, MinIO, SQLite.
+- **Cloud & DevOps:** Docker, Docker Compose, Linux (Debian/Ubuntu, Apache2, Nginx), GitLab CI/CD, AWS (Lambda, API Gateway, S3).
+- **IT Operations & Infrastructure:** Active Directory (User & Group Management, GPO Drive Maps, NTFS permissions, storage quotas), DNS/DHCP administration & name resolution, Windows Server (GUI & Server Core), Remote Administration (RDP, SSH), Network Administration (IDF/MDF patching, DHCP reservations), CMDB / ITSM asset workflows, PXE / WDS OS deployment, Computer Hardware Lifecycle & Legacy Telecom Restoration.
+- **Security & Identity:** Keycloak SSO, Role-Based Access Control (RBAC).
+- **Tools & Methodologies:** Git, GitLab, GitHub, Gitea, Jira, Notion, Agile Workflows, Code Review.
 
 ---
 
@@ -94,13 +95,21 @@
 
   <br>
 
-  <h3>🧰 Tech Stack</h3>
+  <h3>🧰 Tech Stack & Infrastructure</h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,ts,js,react,html,css,tailwind&perline=10" alt="Languages and Frontend" />
       <br><br>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,gitlab,git,github&perline=10" alt="Backend and DevOps" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,nginx,gitlab,git,github,aws&perline=10" alt="Backend and DevOps" />
     </a>
+  </p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+    <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea" />
+    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+    <img src="https://img.shields.io/badge/Active_Directory-00599C?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
+    <img src="https://img.shields.io/badge/CMDB_%2F_ITSM-2B579A?style=for-the-badge&logo=files&logoColor=white" alt="CMDB" />
   </p>
 
   <br>
